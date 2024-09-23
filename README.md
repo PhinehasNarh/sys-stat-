@@ -63,3 +63,5 @@ Boom! You now have all the juicy system stats!
 ##  How It Works
 
 This script is a friendly wrapper around common Linux commands. It pulls in details like system uptime, memory usage, CPU details, and disk space, formats them, and spits them out in a clean, easy-to-read format. Perfect for keeping tabs on your system health without manually typing a bunch of commands.
+
+Coded by ph1n3y
